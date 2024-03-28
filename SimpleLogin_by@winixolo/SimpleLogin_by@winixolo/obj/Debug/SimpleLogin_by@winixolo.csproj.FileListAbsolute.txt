@@ -1,0 +1,12 @@
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\bin\Debug\SimpleLogin_by@winixolo.exe.config
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\bin\Debug\SimpleLogin_by@winixolo.exe
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\bin\Debug\SimpleLogin_by@winixolo.pdb
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\obj\Debug\SimpleLogin_by@winixolo.csproj.AssemblyReference.cache
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\obj\Debug\SimpleLogin_by_winixolo.Form1.resources
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\obj\Debug\SimpleLogin_by_winixolo.Properties.Resources.resources
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\obj\Debug\SimpleLogin_by@winixolo.csproj.GenerateResource.cache
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\obj\Debug\SimpleLogin_by@winixolo.csproj.CoreCompileInputs.cache
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\obj\Debug\SimpleLogin_by@winixolo.exe
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\obj\Debug\SimpleLogin_by@winixolo.pdb
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\bin\Debug\Guna.UI2.dll
+C:\Users\juliu\source\repos\SimpleLogin_by@winixolo\SimpleLogin_by@winixolo\obj\Debug\SimpleLo.C74FDC7D.Up2Date
